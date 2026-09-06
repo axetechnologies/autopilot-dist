@@ -1,0 +1,9 @@
+{
+  "version": "1.6.0",
+  "dmg_url": "https://github.com/axetechnologies/autopilot-dist/releases/download/v1.6.0/Autopilot-1.6.0-arm64.dmg",
+  "sha256": "04c5a02f9e77bcdb14fe150c06ccbae06c621e8de62574619ce86cb61110f32f",
+  "arch": "arm64",
+  "size": 98459030,
+  "notes": "Notarized macOS build; the leaked fleet key is no longer in the bundle.",
+  "released": "2026-09-06T18:37:09Z"
+}
